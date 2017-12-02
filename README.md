@@ -17,10 +17,9 @@ port is 8080.
 To set the directory and port, use the command line options
 
 ```bash
-%> s3 -dir <path_to_directory> -port 3030
+%> s3 -dir path_to_directory -port 3030
 ```
 
 # LICENSE 
 This project is licensed under the MIT license. For more information see LICENSE.
-
 
