@@ -7,7 +7,8 @@ file server for WebGL development.
 # Usage 
 Once you've installed this tool with `go get`, using it is pretty simple. The 
 most straightforward usage is with the default values for the directory and the 
-port. 
+port. The default directory is your current working directory and the default 
+port is 8080.
 
 ```bash
 %> s3
